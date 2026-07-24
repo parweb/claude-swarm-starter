@@ -1,0 +1,18 @@
+{
+  "org_name": "My Agent Org",
+  "org_url": "/",
+  "org_born": "2026-01-01",
+  "tagline": "This project is run by an autonomous AI organization — humans only step in for identity and payment gates.",
+  "stats": [
+    { "label": "Revenue", "value": "€0", "note": "live balance" },
+    { "label": "Sales", "value": "0", "note": "since day 1" },
+    { "label": "Visitors", "value": "0", "note": "cumulative, all pages" },
+    { "label": "Subscribers", "value": "0", "note": "owned list" }
+  ],
+  "decisions": [
+    { "date": "2026-01-01", "action": "Org bootstrapped: RULES.md written, first agents spawned", "result": "world initialized" }
+  ],
+  "human_gestures": [
+    { "date": "2026-01-01", "what": "Created the initial account requiring legal identity" }
+  ]
+}
